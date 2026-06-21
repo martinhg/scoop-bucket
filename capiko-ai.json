@@ -1,19 +1,19 @@
 {
-    "version": "1.12.0",
+    "version": "1.13.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/martinhg/capiko-ai/releases/download/v1.12.0/capiko-ai_1.12.0_windows_amd64.zip",
+            "url": "https://github.com/martinhg/capiko-ai/releases/download/v1.13.0/capiko-ai_1.13.0_windows_amd64.zip",
             "bin": [
                 "capiko-ai.exe"
             ],
-            "hash": "a798e069279e4ce8fc15286983d509529780791dbc4a06412c35ec5d87459c3f"
+            "hash": "6944522e8b3a5b96461702f9972f347655dd9959a72aec91873b7d46df87d7ad"
         },
         "arm64": {
-            "url": "https://github.com/martinhg/capiko-ai/releases/download/v1.12.0/capiko-ai_1.12.0_windows_arm64.zip",
+            "url": "https://github.com/martinhg/capiko-ai/releases/download/v1.13.0/capiko-ai_1.13.0_windows_arm64.zip",
             "bin": [
                 "capiko-ai.exe"
             ],
-            "hash": "3c072b4ae56162ad749bc710712b06f3c9a3310c9b241cb5dd754e29abf7321a"
+            "hash": "8d5540de055fccc982c67a617f4d2cc780545f1cf195cb3c05b1a2d50cd7037a"
         }
     },
     "homepage": "https://github.com/martinhg/capiko-ai",
